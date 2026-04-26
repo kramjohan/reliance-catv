@@ -1,0 +1,5 @@
+# IP Prefix, Country, Region, City, Postal Code
+103.146.207.0/25,PH,PH-CAV,Trece Martires,4109
+103.146.207.128/26,PH,PH-CAV,Naic,4110
+103.146.207.192/27,PH,PH-BUK,Kibawe,4110
+103.146.207.224/27,PH,PH-CAV,Trece Martires,4109
