@@ -1,2 +1,2 @@
 # reliance-catv
-geofee
+geofeed
